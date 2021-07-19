@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{a6d49737-ef40-4c12-bc6b-519b19a0d4fa}">
+		<property name="assetPath">
+			<value>NEW BINAURAL/LVL 2 home morning lead binaural.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>50.285714285714285</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2cf407-a12d-43bd-af87-4ea489ad0dbc}</destination>
+		</relationship>
+	</object>
+</objects>

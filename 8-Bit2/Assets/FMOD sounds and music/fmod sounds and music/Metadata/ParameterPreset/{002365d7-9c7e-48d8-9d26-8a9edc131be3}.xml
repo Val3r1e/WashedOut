@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{002365d7-9c7e-48d8-9d26-8a9edc131be3}">
+		<property name="name">
+			<value>Melody Park Out</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{73650259-0742-40e5-acd7-04e51e5558f4}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{73650259-0742-40e5-acd7-04e51e5558f4}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.50000005960464478</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{62f94d2e-0ec1-43c8-af51-7cbf5388e091}">
+		<property name="name">
+			<value>Birds Park Out</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{eb3c1aca-db70-4e23-8b93-a21cb81fea4a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{eb3c1aca-db70-4e23-8b93-a21cb81fea4a}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.5</value>
+		</property>
+	</object>
+</objects>

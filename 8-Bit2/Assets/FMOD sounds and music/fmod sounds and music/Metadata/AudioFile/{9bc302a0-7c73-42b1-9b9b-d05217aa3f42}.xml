@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{9bc302a0-7c73-42b1-9b9b-d05217aa3f42}">
+		<property name="assetPath">
+			<value>NEW BINAURAL/LVL 2 connected night bass 2 binaural.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.155918367346938</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2cf407-a12d-43bd-af87-4ea489ad0dbc}</destination>
+		</relationship>
+	</object>
+</objects>

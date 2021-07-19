@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{86b1c11a-5128-4382-982e-da768fb71b4b}">
+		<property name="name">
+			<value>outside out</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fa1b2241-0968-4ac8-a761-801d580af25e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fa1b2241-0968-4ac8-a761-801d580af25e}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.090000003576278687</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{e41d9999-8e04-4321-a5f1-e6c2af16c3e2}">
+		<property name="assetPath">
+			<value>Rest/warning binaural 3.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>70.87020408163265</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2cf407-a12d-43bd-af87-4ea489ad0dbc}</destination>
+		</relationship>
+	</object>
+</objects>

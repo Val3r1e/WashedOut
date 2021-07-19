@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ebf213d70d8b4bc1b2070766d244d37, type: 3}
+  m_Name: MarkNight
+  m_EditorClassIdentifier: 
+  dialogInfo:
+  - name: AL
+    text: ...
+    noNameText: 
+  - name: AL
+    text: It's so embarassing, I can't believe I just said that!
+    noNameText: 
+  - name: MARK
+    text: No need to be embarassed, I really liked it!
+    noNameText: 
+  - name: MARK
+    text: It's sad, but happy at the same time. A bit too short, though...
+    noNameText: 
+  - name: AL
+    text: Well, it is a haiku, so it's supposed to be short.
+    noNameText: 
+  - name: MARK
+    text: I see. If that's the case, then I think you did a pretty good job!
+    noNameText: 
+  - name: MARK
+    text: It sounded real, just like the colors we just saw.
+    noNameText: 
+  - name: AL
+    text: I guess it wasn't that bad. I 'm a little rusty, but it seems I can still
+      write.
+    noNameText: 
+  - name: MARK
+    text: 'Of course, and you should keep practicing. If it''s important to you,
+      it''s worth it. '
+    noNameText: 
+  - name: AL
+    text: It is important to me. I can't believe I forgot.
+    noNameText: 
+  - name: MARK
+    text: I'm so happy for you. I wish you good luck!
+    noNameText: 
+  - name: MARK
+    text: It's already late, but I'll stay here a bit longer. Are you staying as
+      well?
+    noNameText: 
+  - name: AL
+    text: 'Sorry, I guess it''s time for me to go home already. '
+    noNameText: 
+  - name: MARK
+    text: 'It''s okay! We''ll talk again soon. '
+    noNameText: 
+  - name: MARK
+    text: If you need me, you know you can just call!
+    noNameText: 
+  - name: AL
+    text: I will! Thank you so much, Mark.
+    noNameText: 
+  - name: MARK
+    text: No problem, buddy!
+    noNameText: 

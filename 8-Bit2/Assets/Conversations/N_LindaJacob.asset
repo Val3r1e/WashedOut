@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ebf213d70d8b4bc1b2070766d244d37, type: 3}
+  m_Name: N_LindaJacob
+  m_EditorClassIdentifier: 
+  dialogInfo:
+  - name: LINDA
+    text: I can't believe we searched the entire house and you had them all along
+    noNameText: 
+  - name: JACOB
+    text: I'm sorry! Now I just need to find my wallet...
+    noNameText: 
+  - name: LINDA
+    text: Are you serious?!
+    noNameText: 

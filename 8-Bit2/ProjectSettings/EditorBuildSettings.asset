@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FMODCredit.unity
+    guid: a24df2903a8c641b9abf3b0165b5f644
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 9ce7878ba381c46109a809ee6f832cdd
+  - enabled: 1
+    path: Assets/Scenes/HeadphoneReminder.unity
+    guid: 6b6b1c268812a4965bf04fb0e1230513
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: b059c6ab3dd804e8094cc0a8f8096acb
+  - enabled: 1
+    path: Assets/Scenes/Level1_Home.unity
+    guid: ce0693e78ade040a487dc3355924670e
+  - enabled: 1
+    path: Assets/Scenes/Level1_Connected.unity
+    guid: 8fc127460b6734f1ab6d76ee7a2e945e
+  - enabled: 1
+    path: Assets/Scenes/Level1_RedScene.unity
+    guid: 6da03368a4a9b418b8397b94edc61907
+  - enabled: 1
+    path: Assets/Scenes/Level2_Dream0.unity
+    guid: 6adcbb9c7c4114593ab2eaad459f836f
+  - enabled: 1
+    path: Assets/Scenes/Level2_Dream1.unity
+    guid: 55c565bc27b6c41bb8351a5a357c4fbb
+  - enabled: 1
+    path: Assets/Scenes/Level2_Dream2.unity
+    guid: eedb790a98df64e21a3e839077d32ba9
+  - enabled: 1
+    path: Assets/Scenes/Level2_RedSceneNight.unity
+    guid: b747a58be50824b40917038f59ea41f6
+  - enabled: 1
+    path: Assets/Scenes/Level2_RedSceneNight2.unity
+    guid: 2fbd2adcabc9b41f9b390f11ec62734d
+  - enabled: 1
+    path: Assets/Scenes/Level2_ConnectedNight.unity
+    guid: ea8063068884b1c43982c31c3b9e48bd
+  - enabled: 1
+    path: Assets/Scenes/Level2_HomeNight.unity
+    guid: 0153d561a9a034e51947f9dd5b907acd
+  - enabled: 1
+    path: Assets/Scenes/Level2_HomeMorning.unity
+    guid: 1a263ed912bb84e6fb2c0069188c4740
+  - enabled: 1
+    path: Assets/Scenes/Level2_Connected.unity
+    guid: 7823ae29460ad4bdabd5f0b031b02ab3
+  m_configObjects: {}

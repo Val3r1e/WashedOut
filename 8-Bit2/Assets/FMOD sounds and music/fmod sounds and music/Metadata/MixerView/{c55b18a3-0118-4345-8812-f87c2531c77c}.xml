@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="UiMixerView" id="{c55b18a3-0118-4345-8812-f87c2531c77c}">
+		<property name="name">
+			<value>Mixer</value>
+		</property>
+		<relationship name="assignedStrips">
+			<destination>{c71c87e7-ddf8-417e-9fb5-4a46bc80e56c}</destination>
+			<destination>{11013a63-c089-43af-8631-a2df107748b1}</destination>
+			<destination>{4fbcc99c-3c14-4f16-823a-e4a202e2cd74}</destination>
+			<destination>{a5f246a4-fc14-4dcc-925a-280e9b2c76ba}</destination>
+			<destination>{67ad4409-0c57-4dea-a005-27890b12493c}</destination>
+			<destination>{7bcdca6e-d261-4189-8f0b-462b02575dd7}</destination>
+			<destination>{d60aedd4-f6b4-420c-a9d6-5c28aeb9b8d0}</destination>
+			<destination>{7523a08f-e539-4cdd-b063-fc57470401af}</destination>
+			<destination>{12ed3c2d-bb49-41a4-b5e1-5a1de7c09da6}</destination>
+			<destination>{27180f6f-7432-4999-98c5-3d42b95b6263}</destination>
+			<destination>{d7bfa0bb-c4cf-4e5a-8637-ffa8f2ce872f}</destination>
+			<destination>{d587482a-f073-4a42-bfe4-3e107448f529}</destination>
+			<destination>{005fa29e-8c28-46f6-a45f-4f87fbd5a74e}</destination>
+			<destination>{10038fb6-3b2d-4a7e-ad2e-1b57078b646b}</destination>
+			<destination>{661f5933-d349-4ff8-b945-626e813f19a4}</destination>
+			<destination>{7473d8e1-5f84-4ce6-866b-080fca78b4e2}</destination>
+			<destination>{17383f2c-0b61-407a-b58a-79c2987c1017}</destination>
+			<destination>{2ff61ada-2e1b-4b16-92b5-ebdfbb983d54}</destination>
+			<destination>{896187a9-ee6b-4866-90d0-08284ba009a0}</destination>
+			<destination>{a131094a-a648-44dc-89e0-5560329668ff}</destination>
+			<destination>{baf6d7b2-d292-4477-bb6c-a00c5c1e6ef1}</destination>
+			<destination>{ba9e897c-039a-488a-adf3-533c42271b92}</destination>
+			<destination>{146a40d0-a6b4-4b05-9f49-387de4259c71}</destination>
+			<destination>{de46358a-0ab7-4c19-99e7-92f8fcf80e52}</destination>
+			<destination>{8865ebb8-4ac9-4b91-8784-33328a840d1a}</destination>
+			<destination>{cd6fa892-cb8b-4bae-8155-9477cb787d62}</destination>
+			<destination>{9011fc47-a6f5-4f36-9fab-bc4a0578bf1b}</destination>
+			<destination>{6b93ba72-ef27-44ec-91de-8797c8e4c033}</destination>
+			<destination>{f2d34aef-99c4-4385-b21c-01a67ba15902}</destination>
+			<destination>{69d00d92-aa03-46e6-9fa8-91a08e03a2fe}</destination>
+			<destination>{49f67d8f-d24b-4cdc-a9b7-f5f13b7931dd}</destination>
+			<destination>{f3f2c3f2-fbd3-49d7-8094-b492a57b0aae}</destination>
+			<destination>{0e85db9a-92a6-4013-ab7f-723d118247ec}</destination>
+			<destination>{ad223594-f9a2-4ffd-84a6-20de26c69910}</destination>
+			<destination>{f4247d2f-8325-48d3-8a37-f29fa25e25cc}</destination>
+			<destination>{667c5813-dc3c-488a-95e7-8e24b69636f3}</destination>
+			<destination>{1288681f-e751-49a4-a734-3ef79b94943c}</destination>
+			<destination>{d01b4d7c-5bef-45d9-805e-2e9c49c42529}</destination>
+			<destination>{32b8cfcd-f99f-4109-817b-7f0f4cd65296}</destination>
+			<destination>{8539afb1-e648-4cdc-912a-e5138b1e913c}</destination>
+			<destination>{afff79bb-640d-46f0-ae2f-0f76a55b7ff8}</destination>
+			<destination>{104cca6d-9ea5-4b4f-8f81-d08e2ae48519}</destination>
+			<destination>{b97cece4-2e8c-4298-8750-330fecb68a23}</destination>
+			<destination>{9891547e-6455-42e8-b556-0e6c789391b6}</destination>
+			<destination>{4d08f526-bbbd-4708-972b-176671ca1327}</destination>
+			<destination>{5a814e48-2655-45a9-90ac-6e83c7aa5302}</destination>
+			<destination>{a459b61e-5d8c-4ef7-905b-6fb46d9b0412}</destination>
+			<destination>{9be0a993-0ce9-4796-933e-43b61afb74ef}</destination>
+		</relationship>
+		<relationship name="mixer">
+			<destination>{e936357d-74de-48bb-b8e2-354cd938a29c}</destination>
+		</relationship>
+	</object>
+</objects>

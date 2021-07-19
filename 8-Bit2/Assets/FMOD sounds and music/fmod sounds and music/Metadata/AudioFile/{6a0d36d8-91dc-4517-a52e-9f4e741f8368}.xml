@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{6a0d36d8-91dc-4517-a52e-9f4e741f8368}">
+		<property name="assetPath">
+			<value>Rest/inside house pianoish.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>9.1428571428571423</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2cf407-a12d-43bd-af87-4ea489ad0dbc}</destination>
+		</relationship>
+	</object>
+</objects>

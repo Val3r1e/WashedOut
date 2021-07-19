@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{97666a13-47a4-4811-8af3-43ec6be69e17}">
+		<property name="name">
+			<value>Solo Out</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{f7f2444f-dc9b-450d-a630-ca9fcaca0c15}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{f7f2444f-dc9b-450d-a630-ca9fcaca0c15}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.50000005960464478</value>
+		</property>
+	</object>
+</objects>

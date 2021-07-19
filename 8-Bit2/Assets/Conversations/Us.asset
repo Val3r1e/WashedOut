@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ebf213d70d8b4bc1b2070766d244d37, type: 3}
+  m_Name: Us
+  m_EditorClassIdentifier: 
+  dialogInfo:
+  - name: FABI
+    text: 'Good to see you, Al!
+
+      Come have some fun with the team.'
+    noNameText: 
+  - name: FABI
+    text: 'You can call me Fabi.
+
+      I did the game''s Music and Sound Design.'
+    noNameText: 
+  - name: FABI
+    text: My responsibility was to create a cool atmosphere through music and sound
+      effects.
+    noNameText: 
+  - name: VALERIE
+    text: Hi, my name is Valerie and I'm this game's Programmer.
+    noNameText: 
+  - name: VALERIE
+    text: I was responsible for putting this game together so you could have a nice
+      and smooth experience.
+    noNameText: 
+  - name: YASEMIN
+    text: 'I''m Yasemin, nice to meet you.
+
+      I am the game''s Artist and Visual
+      Designer. '
+    noNameText: 
+  - name: YASEMIN
+    text: From characters to backgrounds, my job was to make this game look as good
+      as possible!
+    noNameText: 
+  - name: CESAR
+    text: 'Hello Al, my name is Cesar!
+
+      I worked as Designer and Screenwriter.'
+    noNameText: 
+  - name: CESAR
+    text: My job was to create an interesting narrative and make the game elements
+      cohesive.
+    noNameText: 
+  - name: TEAM
+    text: We hope you enjoyed it!
+    noNameText: 

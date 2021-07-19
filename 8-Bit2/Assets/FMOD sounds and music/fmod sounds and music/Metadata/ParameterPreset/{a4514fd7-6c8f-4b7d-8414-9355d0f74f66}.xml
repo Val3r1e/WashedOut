@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{a4514fd7-6c8f-4b7d-8414-9355d0f74f66}">
+		<property name="name">
+			<value>Fade Out Beat</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{472ebb5d-8fff-4087-80d0-e63d5a489a39}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{472ebb5d-8fff-4087-80d0-e63d5a489a39}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>1.4999998807907104</value>
+		</property>
+	</object>
+</objects>

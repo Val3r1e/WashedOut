@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{93f13687-86c1-45f1-882c-fcfcefd668e0}">
+		<property name="name">
+			<value>park in</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{278b515e-f24c-46d8-873c-9c2aafe46d89}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{278b515e-f24c-46d8-873c-9c2aafe46d89}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.090000003576278687</value>
+		</property>
+	</object>
+</objects>

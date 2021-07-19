@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{467354ae-5989-440d-a45b-4cf41a9fd6d0}">
+		<property name="name">
+			<value>General Fade In</value>
+		</property>
+		<relationship name="folder">
+			<destination>{d775167c-1d8a-4051-85b1-0b363308684f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{571d95b1-508b-47ff-ab9f-d996b4b2405e}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{571d95b1-508b-47ff-ab9f-d996b4b2405e}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>0.020000001415610313</value>
+		</property>
+	</object>
+</objects>

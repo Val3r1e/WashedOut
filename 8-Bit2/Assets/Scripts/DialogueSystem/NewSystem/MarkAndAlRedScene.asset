@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ebf213d70d8b4bc1b2070766d244d37, type: 3}
+  m_Name: MarkAndAlRedScene
+  m_EditorClassIdentifier: 
+  dialogInfo:
+  - name: Mark
+    text: "I know this autumn has been harsh on you\u2026 I\u2019m here for you,
+      okay?"
+    noNameText: 
+  - name: Al
+    text: "I know\u2026 Thank you for inviting me. How are you holding up?"
+    noNameText: 
+  - name: Mark
+    text: "I\u2019m used to it already. Trying to go out whenever the weather allows
+      it."
+    noNameText: 
+  - name: Mark
+    text: What have you been up to?
+    noNameText: 
+  - name: Al
+    text: Not much. Even watching TV is a bit boring lately...
+    noNameText: 
+  - name: Mark
+    text: "I know, right? I\u2019ve been doing some knitting lately to pass the time
+      and it\u2019s been a lot of fun! "
+    noNameText: 
+  - name: Al
+    text: "That\u2019s so cool! I wish I had talents like this\u2026"
+    noNameText: 
+  - name: Mark
+    text: "I wasn\u2019t born knitting, you know that! Besides, you used to write
+      poems, didn\u2019t you?"
+    noNameText: 
+  - name: Al
+    text: "Yeah, but I was never any good at it\u2026 and it\u2019s hard to find
+      inspiration with everything so gray."
+    noNameText: 
+  - name: Mark
+    text: Everything is not gray, it just seems like it. And if it makes you feel,
+      it can be inspiring.
+    noNameText: 
+  - name: Al
+    text: "But it\u2019s not. You don\u2019t get it."
+    noNameText: 
+  - name: Mark
+    text: "I guess I don\u2019t\u2026 Sorry. But does this sunset look gray to you?"
+    noNameText: 
+  - name: Al
+    text: Not so much.
+    noNameText: 
+  - name: Mark
+    text: "You should pay attention to it, then! You don\u2019t get to see this everyday."
+    noNameText: 
+  - name: Mark
+    text: I have an idea, this will be your first inspiration!
+    noNameText: 
+  - name: Mark
+    text: How does this moment make you feel? Can you write a poem about it?
+    noNameText: 
+  - name: Al
+    text: I could, but I need some time to find the words...
+    noNameText: 
+  - name: Mark
+    text: It doesn't need to be a big poem, just make it simple and fun!
+    noNameText: 
+  - name: Al
+    text: I will try, but don't laugh!
+    noNameText: 
+  - name: Mark
+    text: Don't worry! I will only laugh if you make it funny, and funny is good!
+    noNameText: 
