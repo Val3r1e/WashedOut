@@ -17,3 +17,5 @@ Fabian Krzich - Music and Sound Design
 Valerie Lemuth - Programming
 
 Yasemin Yağcı - Artist and Visual Design
+
+## [Available on itch.io](https://washedout.itch.io/washed-out) 
