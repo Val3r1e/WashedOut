@@ -2,6 +2,8 @@
 
 ![RedScene](Doc/RedScene.png)
 
+## [Available on itch.io](https://washedout.itch.io/washed-out) 
+
 ## About the game
 
 Washed Out is an atmospheric narrative about a day in the life of an introvert. Al is supposed to go out and meet a friend, but the world outside seems daunting and gray. Help Al discover that there is still beauty to be found, even in a colorless town.
@@ -19,5 +21,3 @@ Fabian Krzich - Music and Sound Design
 Valerie Lemuth - Programming
 
 Yasemin Yağcı - Artist and Visual Design
-
-## [Available on itch.io](https://washedout.itch.io/washed-out) 
